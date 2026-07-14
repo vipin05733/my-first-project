@@ -151,8 +151,8 @@ footer{
 <img src="IMG-20260216-WA0202.jpg" class="profile-img">
 <h1>AI Impact Summit - Delhi</h1>
 <p style="margin-top:20px;color:#cbd5e1;max-width:700px;margin-left:auto;margin-right:auto;">
-Yeh summit mere liye ek life-changing experience raha jahan maine AI innovation,
-future technology aur industry leaders se real-world insights seekhe.
+"This summit was a life-changing experience for me, where I explored AI innovation.",
+"Gain real-world insights from future technology and industry leaders.".
 </p>
 </section>
 
